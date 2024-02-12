@@ -24,7 +24,7 @@ export default function Content() {
           </h2>
           <p className="text-[12.3px] min-[2000px]:text-xl font-medium tracking-[-0.01em] mt-6 mb-8">
             {" "}
-            100 REPLICANTS BOUND TO THE $bee TOKEN BUILT ON ERC404, AN
+            100 REPLICANTS BOUND TO THE $BEE TOKEN BUILT ON ERC404, AN
             EXPERIMENTAL TOKEN STANDARD ENABLING PERSISTENT LIQUIDITY AND
             SEMI-FUNGIBILITY FOR ETHEREUM NFTS.
           </p>
