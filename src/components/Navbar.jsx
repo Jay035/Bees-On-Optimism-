@@ -53,10 +53,13 @@ export default function Navbar({modalOpen, toggleModal}) {
           TWITTER
         </a>
         </div>
-
-        <button className="text-[12.3px] border min-[2000px]:text-xl font-semibold bg-black hover:text-black hover:bg-white transition-colors hover:border-black p-[10px] rounded-[50px] w-44 md:w-[200px] min-[2000px]:p-5 min-[2000px]:w-[400px] text-white tracking-[-2%] h-8 flex justify-center items-center">
+ <a href="https://app.uniswap.org/swap?chain=optimism">
+ <button className="text-[12.3px] border min-[2000px]:text-xl font-semibold bg-black hover:text-black hover:bg-white transition-colors hover:border-black p-[10px] rounded-[50px] w-44 md:w-[200px] min-[2000px]:p-5 min-[2000px]:w-[400px] text-white tracking-[-2%] h-8 flex justify-center items-center">
           BUY ON UNISWAP
         </button>
+
+ </a>
+        
       </section>
 
       {/* hamburger / Menu Icon */}
