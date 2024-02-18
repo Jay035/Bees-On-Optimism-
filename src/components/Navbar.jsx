@@ -16,13 +16,13 @@ export default function Navbar({modalOpen, toggleModal}) {
           ROADMAP
         </p>
         <a
-          href="https://t.me/pandoraapes"
+          href="https://t.me/BeesOnOptimism"
           className="border-b-0 hover:border-b-[0.05px] border-[#1C191C] transition-all font-medium w-fit"
         >
           TELEGRAM
         </a>
         <a
-          href="https://x.com/PandoraApes?t=PRjmlRYwkT105CnQjCLrig&s=09"
+          href="https://x.com/BeesOnOptimism"
           className="border-b-0 hover:border-b-[0.05px] border-[#1C191C] transition-all font-medium w-fit"
         >
           TWITTER
@@ -40,23 +40,26 @@ export default function Navbar({modalOpen, toggleModal}) {
         >
           ROADMAP
         </p>
-          <a
-            href="https://t.me/pandoraapes"
-            className="border-b-[0.05px] border-[#1C191C] font-medium w-fit"
-          >
-            TELEGRAM
-          </a>
-          <a
-            href="https://x.com/PandoraApes?t=PRjmlRYwkT105CnQjCLrig&s=09"
-            className="border-b-[0.05px] border-[#1C191C] font-medium w-fit"
-          >
-            TWITTER
-          </a>
+              <a
+          href="https://t.me/BeesOnOptimism"
+          className="border-b-0 hover:border-b-[0.05px] border-[#1C191C] transition-all font-medium w-fit"
+        >
+          TELEGRAM
+        </a>
+        <a
+          href="https://x.com/BeesOnOptimism"
+          className="border-b-0 hover:border-b-[0.05px] border-[#1C191C] transition-all font-medium w-fit"
+        >
+          TWITTER
+        </a>
         </div>
-
-        <button className="text-[12.3px] border min-[2000px]:text-xl font-semibold bg-black hover:text-black hover:bg-white transition-colors hover:border-black p-[10px] rounded-[50px] w-44 md:w-[200px] min-[2000px]:p-5 min-[2000px]:w-[400px] text-white tracking-[-2%] h-8 flex justify-center items-center">
+ <a href="https://app.uniswap.org/swap?chain=optimism">
+ <button className="text-[12.3px] border min-[2000px]:text-xl font-semibold bg-black hover:text-black hover:bg-white transition-colors hover:border-black p-[10px] rounded-[50px] w-44 md:w-[200px] min-[2000px]:p-5 min-[2000px]:w-[400px] text-white tracking-[-2%] h-8 flex justify-center items-center">
           BUY ON UNISWAP
         </button>
+
+ </a>
+        
       </section>
 
       {/* hamburger / Menu Icon */}
